@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781848712479
+  login: 1781848141062
+money: '0'
+last-account-name: jax2f
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: 288.74418814321945
+  y: 96.0
+  z: -1590.313294301747
+  yaw: 107.40982055664062
+  pitch: 16.04999351501465

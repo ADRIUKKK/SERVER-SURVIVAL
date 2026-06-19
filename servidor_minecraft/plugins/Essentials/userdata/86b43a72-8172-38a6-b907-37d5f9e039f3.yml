@@ -1,0 +1,56 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1781828363907
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781850216973
+  login: 1781844994316
+money: '0'
+last-account-name: ADRIANMLG2
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -4292.328707747556
+  y: 64.0
+  z: -2394.7924969212804
+  yaw: -91.4999771118164
+  pitch: 15.150004386901855
+lastlocation:
+  world: 35a6649e-7bb1-4540-8ec3-dc97c640532d
+  world-name: world_nether
+  x: -674.3000000119209
+  y: 48.0
+  z: -351.30000001192093
+  yaw: 142.37330627441406
+  pitch: 29.85009002685547
+homes:
+  aldea:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -4278.113532941325
+    y: 64.0
+    z: -2400.533420675688
+    yaw: 10.949737548828125
+    pitch: 16.800113677978516
+  portal:
+    world: 35a6649e-7bb1-4540-8ec3-dc97c640532d
+    world-name: world_nether
+    x: -549.2109416795017
+    y: 49.0
+    z: -302.41293398421976
+    yaw: 90.028564453125
+    pitch: 3.899803638458252

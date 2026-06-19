@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1781849609580
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781849655026
+  login: 1781849570932
+money: '0'
+last-account-name: TixerMiner
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -1231.7682661083766
+  y: 61.0
+  z: -486.69999998807907
+  yaw: -7.6369309425354
+  pitch: 9.44990348815918
+lastlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -779.8469832609628
+  y: 65.0
+  z: -400.88956139516614
+  yaw: 50.24958038330078
+  pitch: 1.200000286102295
+homes:
+  home:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1246.555595582423
+    y: 72.0
+    z: -489.38466020834073
+    yaw: -1.3369140625
+    pitch: 19.49989128112793
+  cueva:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1322.699999988079
+    y: 22.0
+    z: -234.47087361157983
+    yaw: -151.34942626953125
+    pitch: 26.70003890991211
+  rota:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1631.5761518491395
+    y: -49.0
+    z: -244.69999998807907
+    yaw: 0.16064453125
+    pitch: 72.44995880126953

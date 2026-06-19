@@ -1,0 +1,56 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1781828047634
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781895859598
+  login: 1781895518226
+money: '0'
+last-account-name: Gatomomos
+lastlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: 1887.3438376149352
+  y: 66.0
+  z: -156.87840357209427
+  yaw: -64.07742309570312
+  pitch: 26.249921798706055
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: 104.89587735518349
+  y: 51.0
+  z: -231.4344869340009
+  yaw: -45.131805419921875
+  pitch: 57.449951171875
+homes:
+  home:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 117.6273106847783
+    y: 64.0
+    z: -224.13249132508113
+    yaw: 157.66802978515625
+    pitch: 6.14997673034668
+  aldea:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 1887.790677875297
+    y: 65.5
+    z: -155.76665132420567
+    yaw: -71.42739868164062
+    pitch: 20.999921798706055

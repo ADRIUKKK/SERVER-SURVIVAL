@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1781895944395
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781664170424
+  login: 1781895603051
+money: '0'
+last-account-name: Manuelito79_0
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: 153.30000001192093
+  y: 68.0
+  z: -21.680422512536556
+  yaw: 79.35001373291016
+  pitch: 10.350001335144043
+lastlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: 51.223712273746436
+  y: 107.0
+  z: -1511.376547667163
+  yaw: -116.70050048828125
+  pitch: 8.39998722076416
+homes:
+  de:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 109.69999998807907
+    y: 51.0
+    z: -233.69999998807907
+    yaw: 62.7088623046875
+    pitch: 17.24997329711914
+  ignacio:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 2083.505478988425
+    y: -9.0
+    z: -367.78530827371344
+    yaw: 81.44925689697266
+    pitch: 2.999987840652466
+  jorge:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 80.25484522110712
+    y: 76.0
+    z: -1509.283621337379
+    yaw: 16.95013427734375
+    pitch: 40.649993896484375
